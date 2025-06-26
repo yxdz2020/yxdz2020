@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/yxdz2020?tab=repositories">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxdz2020&layout=compact&theme=solarized-light" />
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxdz2020&layout=compact&theme=solarized-light&count_private=true" />
 </a>
